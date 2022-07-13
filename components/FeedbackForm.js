@@ -8,7 +8,7 @@ export default function FeedbackForm() {
         data-netlify-honeypot="bot-field"
         name="feedback"
         method="POST"
-        action="submit"
+        action="https://louise-breakfast-charity-quiz.netlify.app/success"
       >
         <input type="hidden" name="form-name" value="pet-quiz" />
         <p className={styles.hidden}>
