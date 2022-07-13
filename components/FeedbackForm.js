@@ -17,7 +17,7 @@ export default function FeedbackForm() {
             </label>
         </p>
 
-        <p className={styles.p}>Name the Owner 👀 (extra points if you can name them)</p> 
+        <p className={styles.p}>Name the Owner 👀 (+1 on each if you can name them)</p> 
        
         <div className={styles.container}>
         

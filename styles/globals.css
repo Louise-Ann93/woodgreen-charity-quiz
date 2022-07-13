@@ -13,10 +13,11 @@ main {
   padding: 2rem 20px;
   margin: 0 auto;
   width: 100vw;
-  background-color: white;
-  background-image: url('../images/pets.webp');
-  background-repeat: no-repeat;
-  background-size: contain;
+  background-color: #08AEEA;
+  background-image: linear-gradient(315deg, #08AEEA 0%, #2AF598 88%);
+
+
+
 }
 
 hr {
