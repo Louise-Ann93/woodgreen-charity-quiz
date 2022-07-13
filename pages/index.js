@@ -7,12 +7,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>BIG Break Quiz</title>
+        <title>BIG BREAK QUIZ</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="BIG BREAK for Pets Quiz 🐶" />
+        <Header title="Next.js Toolbox" />
         <hr />
         <FeedbackForm />
       </main>
