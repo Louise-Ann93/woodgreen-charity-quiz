@@ -1,25 +1,18 @@
+import styles from './Header.module.css'
+
 export default function Header({ title }) {
   return (
     <>
-      <h1 className="title">{title}</h1>
-      <p>
-        Hi 👋! This template gives you a{" "}
-        <a href="https://nextjs.org/">Next.js</a> app with the scaffolding for{" "}
-        <a href="https://www.netlify.com/products/functions/">
-          Netlify Functions
-        </a>
-        , <a href="https://www.netlify.com/products/forms/">Forms</a>, and{" "}
-        <a href="https://docs.netlify.com/routing/redirects/">Redirects</a>. Our
-        aim was to give you the code you would need to hit the ground running
-        with a few fun features.
-      </p>
-
-      <p>
-        You can find the code for this project on GitHub at{" "}
-        <a href="https://github.com/netlify-templates/nextjs-toolbox">
-          https://github.com/netlify-templates/nextjs-toolbox
-        </a>
-        ! Happy coding!
+      <h1 className={styles.title}>{title}</h1>
+      <p className={styles.p}>
+        Welcome to my BIG BREAK for Pets Breakfast!
+        <br></br>
+        I hope your bellys are full of cake and coffee.
+        <br></br>
+        <br></br>
+        I have created a quiz for you, to test your animal trivia! 
+        <br></br>
+        There's a few questions where you can get a few extra brownie points 😉
       </p>
     </>
   );
