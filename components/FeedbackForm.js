@@ -17,6 +17,14 @@ export default function FeedbackForm() {
             </label>
         </p>
 
+        <div>
+          <div className={styles.p}>
+          <label htmlFor="your-name">Your Name:</label>
+          <input id="your-name" className={styles['form-field-name']} type="text" name="your-name" placeholder='Type Here' required/>
+          </div>
+        </div>
+
+
         <p className={styles.p}>Name the Owner 👀 (+1 on each if you can name them)</p> 
        
         <div className={styles.container}>
@@ -24,7 +32,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Betty-min.JPG' width="300" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="betty"></label>
+          <label htmlFor="betty">A,</label>
           <input id="betty" className={styles['form-field']} type="text" name="betty" placeholder='Type Here'/>
           </div>
         </div>
@@ -32,7 +40,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Charlie-min.jpg' width="200" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="charlie"></label>
+          <label htmlFor="charlie">B,</label>
           <input id="charlie" className={styles['form-field']} type="text" name="charlie" placeholder='Type Here'/>
           </div>
         </div>
@@ -40,7 +48,7 @@ export default function FeedbackForm() {
         <div>
           <img src='COCO-min.JPG' width="250" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="coco"></label>
+          <label htmlFor="coco">C,</label>
           <input id="coco" className={styles['form-field']} type="text" name="coco" placeholder='Type Here'/>
           </div>
         </div>
@@ -48,7 +56,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Dolly-min.jpg' width="325" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="dolly"></label>
+          <label htmlFor="dolly">D,</label>
           <input id="dolly" className={styles['form-field']} type="text" name="dolly" placeholder='Type Here'/>
           </div>
         </div>
@@ -56,7 +64,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Frankie-min.JPG' width="175" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="frankie"></label>
+          <label htmlFor="frankie">E,</label>
           <input id="frankie" className={styles['form-field']} type="text" name="frankie" placeholder='Type Here'/>
           </div>
         </div>
@@ -64,7 +72,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Hornby-min.jpg' width="225" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="hornby"></label>
+          <label htmlFor="hornby">F,</label>
           <input id="hornby" className={styles['form-field']} type="text" name="hornby" placeholder='Type Here'/>
           </div>
         </div>
@@ -72,7 +80,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Jet-min.jpg' width="250" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="jet"></label>
+          <label htmlFor="jet">G,</label>
           <input id="jet" className={styles['form-field']} type="text" name="jet" placeholder='Type Here'/>
           </div>
         </div>
@@ -80,7 +88,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Jinx-min.JPG' width="225" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="jinx"></label>
+          <label htmlFor="jinx">H,</label>
           <input id="jinx" className={styles['form-field']} type="text" name="jinx" placeholder='Type Here'/>
           </div>
         </div>
@@ -88,7 +96,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Keef-min.JPG' width="300" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="keef"></label>
+          <label htmlFor="keef">I,</label>
           <input id="keef" className={styles['form-field']} type="text" name="keef" placeholder='Type Here'/>
           </div>
         </div>
@@ -96,7 +104,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Killa-min.JPG' width="200" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="killa"></label>
+          <label htmlFor="killa">J,</label>
           <input id="killa" className={styles['form-field']} type="text" name="killa" placeholder='Type Here'/>
           </div>
         </div>
@@ -104,7 +112,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Lola-min.JPG' width="250" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="lola"></label>
+          <label htmlFor="lola">K,</label>
           <input id="lola" className={styles['form-field']} type="text" name="lola" placeholder='Type Here'/>
           </div>
         </div>
@@ -112,7 +120,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Mable-min.JPG' width="225" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="mable"></label>
+          <label htmlFor="mable">L,</label>
           <input id="mable" className={styles['form-field']} type="text" name="mable" placeholder='Type Here'/>
           </div>
         </div>
@@ -120,7 +128,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Harry-min.jpg' width="350" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="harry"></label>
+          <label htmlFor="harry">M,</label>
           <input id="harry" className={styles['form-field']} type="text" name="harry" placeholder='Type Here'/>
           </div>
         </div>

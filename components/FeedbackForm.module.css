@@ -27,10 +27,18 @@ font-weight: 600;
 
 .form-field {
   font-size: inherit;
-  margin: 15px 0;
+  margin: 10px 5px;
   padding: 12px 20px;
-  width: 100%;
+  width: 75%;
 }
+
+.form-field-name {
+  font-size: inherit;
+  margin: 15px;
+  padding: 12px 20px;
+  width: 24%;
+}
+
 
 .button {
   background-color: teal;
