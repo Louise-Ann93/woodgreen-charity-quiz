@@ -32,7 +32,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Betty-min.JPG' width="300" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="mike">A,</label>
+          <label htmlFor="mike">1,</label>
           <input id="mike" className={styles['form-field']} type="text" name="mike" placeholder='Type Here'/>
           </div>
         </div>
@@ -40,7 +40,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Charlie-min.jpg' width="200" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="shaun">B,</label>
+          <label htmlFor="shaun">2,</label>
           <input id="shaun" className={styles['form-field']} type="text" name="shaun" placeholder='Type Here'/>
           </div>
         </div>
@@ -48,7 +48,7 @@ export default function FeedbackForm() {
         <div>
           <img src='COCO-min.JPG' width="250" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="john">C,</label>
+          <label htmlFor="john">3,</label>
           <input id="john" className={styles['form-field']} type="text" name="john" placeholder='Type Here'/>
           </div>
         </div>
@@ -56,7 +56,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Dolly-min.jpg' width="325" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="suzette">D,</label>
+          <label htmlFor="suzette">4,</label>
           <input id="suzette" className={styles['form-field']} type="text" name="suzette" placeholder='Type Here'/>
           </div>
         </div>
@@ -64,7 +64,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Frankie-min.JPG' width="175" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="iliana">E,</label>
+          <label htmlFor="iliana">5,</label>
           <input id="iliana" className={styles['form-field']} type="text" name="iliana" placeholder='Type Here'/>
           </div>
         </div>
@@ -72,15 +72,15 @@ export default function FeedbackForm() {
         <div>
           <img src='Hornby-min.jpg' width="225" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="jamie">F,</label>
-          <input id="jamie" className={styles['form-field']} type="text" name="jamie" placeholder='Type Here'/>
+          <label htmlFor="jamie2">6,</label>
+          <input id="jamie2" className={styles['form-field']} type="text" name="jamie2" placeholder='Type Here'/>
           </div>
         </div>
 
         <div>
           <img src='Jet-min.jpg' width="250" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="matt">G,</label>
+          <label htmlFor="matt">7,</label>
           <input id="matt" className={styles['form-field']} type="text" name="matt" placeholder='Type Here'/>
           </div>
         </div>
@@ -88,7 +88,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Jinx-min.JPG' width="225" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="nick">H,</label>
+          <label htmlFor="nick">8,</label>
           <input id="nick" className={styles['form-field']} type="text" name="nick" placeholder='Type Here'/>
           </div>
         </div>
@@ -96,7 +96,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Keef-min.JPG' width="300" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="shauni">I,</label>
+          <label htmlFor="shauni">9,</label>
           <input id="shauni" className={styles['form-field']} type="text" name="shauni" placeholder='Type Here'/>
           </div>
         </div>
@@ -104,7 +104,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Killa-min.JPG' width="200" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="kez">J,</label>
+          <label htmlFor="kez">10,</label>
           <input id="kez" className={styles['form-field']} type="text" name="kez" placeholder='Type Here'/>
           </div>
         </div>
@@ -112,7 +112,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Lola-min.JPG' width="250" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="char">K,</label>
+          <label htmlFor="char">11,</label>
           <input id="char" className={styles['form-field']} type="text" name="char" placeholder='Type Here'/>
           </div>
         </div>
@@ -120,7 +120,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Mable-min.JPG' width="225" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="jamie">L,</label>
+          <label htmlFor="jamie">12,</label>
           <input id="jamie" className={styles['form-field']} type="text" name="jamie" placeholder='Type Here'/>
           </div>
         </div>
@@ -128,7 +128,7 @@ export default function FeedbackForm() {
         <div>
           <img src='Harry-min.jpg' width="350" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="lou">M,</label>
+          <label htmlFor="lou">13,</label>
           <input id="lou" className={styles['form-field']} type="text" name="lou" placeholder='Type Here'/>
           </div>
         </div>
@@ -136,7 +136,7 @@ export default function FeedbackForm() {
         <div>
           <img src='daisy-min.JPG' width="350" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="Daisy">N,</label>
+          <label htmlFor="Daisy">14,</label>
           <input id="daisy" className={styles['form-field']} type="text" name="daisy" placeholder='Type Here'/>
           </div>
         </div>
@@ -144,8 +144,24 @@ export default function FeedbackForm() {
         <div>
           <img src='jason.JPG' width="350" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="fish">O,</label>
+          <label htmlFor="fish">15,</label>
           <input id="fish" className={styles['form-field']} type="text" name="fish" placeholder='Type Here'/>
+          </div>
+        </div>
+
+        <div>
+          <img src='mika.JPG' width="250" height="250" alt="pet picture"/>
+          <div>
+          <label htmlFor="liam">16,</label>
+          <input id="liam" className={styles['form-field']} type="text" name="liam" placeholder='Type Here'/>
+          </div>
+        </div>
+
+        <div>
+          <img src='smudge.JPG' width="200" height="250" alt="pet picture"/>
+          <div>
+          <label htmlFor="ryan">17,</label>
+          <input id="ryan" className={styles['form-field']} type="text" name="ryan" placeholder='Type Here'/>
           </div>
         </div>
 
