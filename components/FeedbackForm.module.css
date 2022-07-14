@@ -50,6 +50,12 @@ font-weight: 600;
   padding: 12px 20px;
 }
 
+.button:hover {
+  background-color: white;
+  border: 1px solid black;
+  color: teal;
+}
+
 .buttonContainer {
 display: flex;
 justify-content: center;
