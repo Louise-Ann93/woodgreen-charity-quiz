@@ -32,104 +32,120 @@ export default function FeedbackForm() {
         <div>
           <img src='Betty-min.JPG' width="300" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="betty">A,</label>
-          <input id="betty" className={styles['form-field']} type="text" name="betty" placeholder='Type Here'/>
+          <label htmlFor="mike">A,</label>
+          <input id="mike" className={styles['form-field']} type="text" name="mike" placeholder='Type Here'/>
           </div>
         </div>
 
         <div>
           <img src='Charlie-min.jpg' width="200" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="charlie">B,</label>
-          <input id="charlie" className={styles['form-field']} type="text" name="charlie" placeholder='Type Here'/>
+          <label htmlFor="shaun">B,</label>
+          <input id="shaun" className={styles['form-field']} type="text" name="shaun" placeholder='Type Here'/>
           </div>
         </div>
 
         <div>
           <img src='COCO-min.JPG' width="250" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="coco">C,</label>
-          <input id="coco" className={styles['form-field']} type="text" name="coco" placeholder='Type Here'/>
+          <label htmlFor="john">C,</label>
+          <input id="john" className={styles['form-field']} type="text" name="john" placeholder='Type Here'/>
           </div>
         </div>
 
         <div>
           <img src='Dolly-min.jpg' width="325" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="dolly">D,</label>
-          <input id="dolly" className={styles['form-field']} type="text" name="dolly" placeholder='Type Here'/>
+          <label htmlFor="suzette">D,</label>
+          <input id="suzette" className={styles['form-field']} type="text" name="suzette" placeholder='Type Here'/>
           </div>
         </div>
 
         <div>
           <img src='Frankie-min.JPG' width="175" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="frankie">E,</label>
-          <input id="frankie" className={styles['form-field']} type="text" name="frankie" placeholder='Type Here'/>
+          <label htmlFor="iliana">E,</label>
+          <input id="iliana" className={styles['form-field']} type="text" name="iliana" placeholder='Type Here'/>
           </div>
         </div>
 
         <div>
           <img src='Hornby-min.jpg' width="225" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="hornby">F,</label>
-          <input id="hornby" className={styles['form-field']} type="text" name="hornby" placeholder='Type Here'/>
+          <label htmlFor="jamie">F,</label>
+          <input id="jamie" className={styles['form-field']} type="text" name="jamie" placeholder='Type Here'/>
           </div>
         </div>
 
         <div>
           <img src='Jet-min.jpg' width="250" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="jet">G,</label>
-          <input id="jet" className={styles['form-field']} type="text" name="jet" placeholder='Type Here'/>
+          <label htmlFor="matt">G,</label>
+          <input id="matt" className={styles['form-field']} type="text" name="matt" placeholder='Type Here'/>
           </div>
         </div>
 
         <div>
           <img src='Jinx-min.JPG' width="225" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="jinx">H,</label>
-          <input id="jinx" className={styles['form-field']} type="text" name="jinx" placeholder='Type Here'/>
+          <label htmlFor="nick">H,</label>
+          <input id="nick" className={styles['form-field']} type="text" name="nick" placeholder='Type Here'/>
           </div>
         </div>
 
         <div>
           <img src='Keef-min.JPG' width="300" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="keef">I,</label>
-          <input id="keef" className={styles['form-field']} type="text" name="keef" placeholder='Type Here'/>
+          <label htmlFor="shauni">I,</label>
+          <input id="shauni" className={styles['form-field']} type="text" name="shauni" placeholder='Type Here'/>
           </div>
         </div>
 
         <div>
           <img src='Killa-min.JPG' width="200" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="killa">J,</label>
-          <input id="killa" className={styles['form-field']} type="text" name="killa" placeholder='Type Here'/>
+          <label htmlFor="kez">J,</label>
+          <input id="kez" className={styles['form-field']} type="text" name="kez" placeholder='Type Here'/>
           </div>
         </div>
 
         <div>
           <img src='Lola-min.JPG' width="250" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="lola">K,</label>
-          <input id="lola" className={styles['form-field']} type="text" name="lola" placeholder='Type Here'/>
+          <label htmlFor="char">K,</label>
+          <input id="char" className={styles['form-field']} type="text" name="char" placeholder='Type Here'/>
           </div>
         </div>
 
         <div>
           <img src='Mable-min.JPG' width="225" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="mable">L,</label>
-          <input id="mable" className={styles['form-field']} type="text" name="mable" placeholder='Type Here'/>
+          <label htmlFor="jamie">L,</label>
+          <input id="jamie" className={styles['form-field']} type="text" name="jamie" placeholder='Type Here'/>
           </div>
         </div>
 
         <div>
           <img src='Harry-min.jpg' width="350" height="250" alt="pet picture"/>
           <div>
-          <label htmlFor="harry">M,</label>
-          <input id="harry" className={styles['form-field']} type="text" name="harry" placeholder='Type Here'/>
+          <label htmlFor="lou">M,</label>
+          <input id="lou" className={styles['form-field']} type="text" name="lou" placeholder='Type Here'/>
+          </div>
+        </div>
+
+        <div>
+          <img src='daisy-min.JPG' width="350" height="250" alt="pet picture"/>
+          <div>
+          <label htmlFor="Daisy">N,</label>
+          <input id="daisy" className={styles['form-field']} type="text" name="daisy" placeholder='Type Here'/>
+          </div>
+        </div>
+
+        <div>
+          <img src='jason.JPG' width="350" height="250" alt="pet picture"/>
+          <div>
+          <label htmlFor="fish">O,</label>
+          <input id="fish" className={styles['form-field']} type="text" name="fish" placeholder='Type Here'/>
           </div>
         </div>
 
